@@ -12,6 +12,12 @@ network. The same idea can later extend to other states.
 only. The source, calibration data, and operator tools live in a separate
 private repository and are not published here.
 
+## Demo
+
+[![Speed Survey Network Demo](https://img.youtube.com/vi/MlPGWtO9300/maxresdefault.jpg)](https://youtu.be/MlPGWtO9300)
+
+▶️ **[Watch the full demo on YouTube](https://youtu.be/MlPGWtO9300)**
+
 ## What it does today
 
 - Statewide Minnesota camera map from the live public catalog (on the order of
