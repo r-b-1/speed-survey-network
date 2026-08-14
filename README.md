@@ -18,17 +18,6 @@ private repository and are not published here.
 
 ▶️ **[Watch the full demo on YouTube](https://youtu.be/MlPGWtO9300)**
 
-
-
-
-
-## Demo
-
-<GitHub-hosted playable video here>
-
-[Watch the full-quality demo on YouTube](https://youtu.be/MlPGWtO9300)
-
-
 ## What it does today
 
 - Statewide Minnesota camera map from the live public catalog (on the order of
